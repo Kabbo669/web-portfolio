@@ -19,8 +19,8 @@ h1 {
 .half-width img {
   width: 85%;
  }
-.agent {
-  color: rgb(3, 248, 101);
+.social-worker {
+  color: yellow;
   font-size: 30px;
   background-color: gray;
   width: 83%;
